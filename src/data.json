@@ -1,0 +1,22 @@
+{
+    "todos" : [
+        {
+            "title": "Tarea 1",
+            "description": "Aprender un poco mas de react",
+            "priority" : "low",
+            "responsible": "Gilberto mendez"
+        },
+        {
+            "title": "Tarea 2",
+            "description": "second task to do",
+            "priority": "medium",
+            "responsible": "Gilberto mendez"
+        },
+        {
+            "title": "Tarea 3",
+            "description": "Practicar React JS",
+            "priority": "high",
+            "responsible": "Gilberto mendez"
+        }
+    ]
+}
